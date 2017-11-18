@@ -1,0 +1,49 @@
+body.body1{
+	background-color:#00FFFF;
+}
+h1.C{
+	text-align:center;
+	font-size:500%;
+	color:blue;
+}
+p.main{
+	font-size:300%;
+	color:#FF0000;
+}
+p.about{
+	font-size:150%;
+	color:#708090;
+}
+pre{
+	float:left;clear:left;
+	font-size:150%;
+	color:grey;
+}
+h1.n{
+	font-size:400%;
+	color:#2F4F4F;
+    text-align:center;
+}
+body.body2{
+	background-color:#FFE4C4;
+}
+h2.m{
+	color:#2F4F4F;
+	float:left;clear:left;
+}
+p.i{
+	color:#1E90FF;
+	font-size:200%;
+}
+pre.i{
+	color:#1E90FF;
+	font-size:120%;
+}
+h3.come{
+	color:red;
+	font-size:120%;
+	float:left;clear:left;
+}
+p{
+	float:left;clear:left;
+}
